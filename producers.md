@@ -235,7 +235,7 @@ the [Test::More](http://perldoc.perl.org/Test/More.html) API.
 
 > Gambas is an open source programming language and rapid application development system (RAD)
 > which empowers a programmer to create a great variety of programs:  From simple scripts and command line applications, 
-> server daemons up to large GUI aplications in Gambas Basic under Linux.
+> server daemons up to large GUI applications in Gambas Basic under Linux.
 >
 > *From [gambaswiki.org](http://gambaswiki.org/)*
 
